@@ -8,7 +8,7 @@ int line;
 for (line = 0; line <= 9; line++)
 {
   char ch;
-for (ch = 'a' ; ch <= 'z'; ch++)
+for (ch = 'a'; ch <= 'z'; ch++)
 _putchar (ch);
 _putchar ('\n');  
 }
